@@ -6,11 +6,11 @@ from fulllog import Full_log
 import json
 import logging
 from pathlib import Path
-import pickle
+import pickle5 as pickle
 import sys
 
-OPTDICTFILE = "../resources/optdict.pkl"
-TEXTDICTFILE = "../resources/liste_francais.txt"
+OPTDICTFILE = "resources/optdict.pkl"
+TEXTDICTFILE = "resources/liste_francais.txt"
 
 def load_textdict(fn):
     """

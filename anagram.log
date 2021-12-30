@@ -1,0 +1,4 @@
+2022-02-03 11:39:55,221 ::anagram.py :: INFO :: Anagram started
+2022-02-03 11:39:55,223 ::anagram.py :: INFO :: Reading optimized dictionnary from binary file
+2022-02-03 11:39:55,663 ::anagram.py :: INFO :: Searching anagrams for trace
+2022-02-03 11:39:55,663 ::anagram.py :: INFO :: Anagram completed
